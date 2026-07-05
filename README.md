@@ -6,7 +6,7 @@ The game engine is being rebuilt from scratch and I'm going to try to give it a 
 The reason why it's not compatible with any form of Windows past Windows XP is because it was coded for that language. So the entire system has to be rebuilt from the ground up.
 
 # How old is the engine?
-The engine was built in 2002, specifically at August 1st.
+The engine was built in 2002, specifically at August 1st. it now 23 years.
 
 # What was the name of that engine at that time used to make for games?
 Schroeder engine.
